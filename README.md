@@ -1,5 +1,3 @@
-# HepaCoreAI
-AI-powered multi-disease prediction platform using Streamlit and Machine Learning for Heart Disease, Diabetes, Liver Disease, and Chronic Kidney Disease prediction.
 # 🩺 HepaCoreAI
 
 An AI-powered multi-disease prediction system that helps users assess the likelihood of various health conditions using Machine Learning models.
@@ -32,13 +30,9 @@ The application provides an intuitive web interface where users can enter medica
 Add screenshots of your homepage and prediction dashboards here.
 
 ```md
-## 📸 Screenshots
-
-### Homepage
 ![Homepage](screenshots/homepage.png)
-
-### Prediction Dashboard
 ![Prediction Dashboard](screenshots/dashboard.png)
+```
 
 ---
 
