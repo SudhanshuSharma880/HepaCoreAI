@@ -34,7 +34,7 @@ Add screenshots of your homepage and prediction dashboards here.
 ```md
 ![Homepage](screenshots/homepage.png)
 ![Prediction Dashboard](screenshots/dashboard.png)
-![image alt](https://github.com/SudhanshuSharma880/HepaCoreAI/blob/main/screenshots/dashboard.png)
+![image alt](https://github.com/SudhanshuSharma880/HepaCoreAI/blob/a47dee1da4ea07df1b9e6fc1a618b299e530f7e5/screenshots/homepage.png)
 ```
 
 ---
