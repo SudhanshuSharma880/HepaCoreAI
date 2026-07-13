@@ -32,10 +32,13 @@ The application provides an intuitive web interface where users can enter medica
 Add screenshots of your homepage and prediction dashboards here.
 
 ```md
+## 📸 Screenshots
+
+### Homepage
 ![Homepage](screenshots/homepage.png)
+
+### Prediction Dashboard
 ![Prediction Dashboard](screenshots/dashboard.png)
-![image alt](https://github.com/SudhanshuSharma880/HepaCoreAI/blob/a47dee1da4ea07df1b9e6fc1a618b299e530f7e5/screenshots/homepage.png)
-```
 
 ---
 
